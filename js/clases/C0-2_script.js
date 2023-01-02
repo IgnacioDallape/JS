@@ -8,7 +8,7 @@ let nos permite modificar su valor
 en algun momento determinado, es decir, la 
 reasigno, usando la palabra let de nuevo.
 */
- let catar = ""
+let catar = ""
 
 //let miNombre = "ignacio"; //declaro la variable y la inicializo.
 //let minombre = "igna";  //esta es diferente a la de arriba, ya que la mayuscula modifica todo
@@ -78,7 +78,7 @@ console.log(alturaUsuario);
 */
 
 
-//et edadActual = parseInt(prompt("ingresa tu edad actual"));
+//let edadActual = parseInt(prompt("ingresa tu edad actual"));
 //let edadEn5anios = edadActual + 5;
 //console.log(edadEn5anios);
 //alert("en 5 años tendras " + edadEn5anios + " años.");

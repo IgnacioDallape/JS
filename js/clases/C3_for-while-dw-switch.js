@@ -1,8 +1,9 @@
+/*
 // FOR
 
 // TABLA DE MULTIPLICAR DE x numero
 
-/*
+
 let ingresarNumero = parseInt(prompt("ingrese un numero"))
 
 for(let i = 1; i < 11; i++){
